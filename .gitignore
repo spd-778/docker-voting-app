@@ -1,6 +1,6 @@
-*.pyc
-project.lock.json
 bin/
 obj/
-.vs/
 node_modules/
+.env
+*.log
+Dockerfile.local
